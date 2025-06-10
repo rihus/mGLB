@@ -1,5 +1,5 @@
 # mGLB
-Repository for median or mean-anchored generalized linear binning analysis pipeline, written in Python.
+Repository for median or mean-anchored generalized linear binning analysis pipeline to analyze 129Xe ventilation MRI imaging, written in Python.
 
 There are several steps required to run the analysis successfully:
 1. Install all required libraries
